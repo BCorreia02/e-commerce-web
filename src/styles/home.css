@@ -1,0 +1,23 @@
+.container {
+    flex: 1;
+    background-color: #fff;
+  }
+  
+  .topBar {
+    background-color: #ccc;
+    padding: 16px;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .scrollView {
+    flex: 1;
+  }
+  
+  .content {
+    font-size: 16px;
+  }
